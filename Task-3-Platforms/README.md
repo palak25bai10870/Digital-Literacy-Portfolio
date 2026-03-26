@@ -4,3 +4,5 @@ In this task, I explored both coding practice and collaboration platforms. I use
 For collaboration, I used Google Workspace tools, specifically Google Forms and Google Sheets. I created a Digital Literacy Awareness Quiz consisting of five questions, including multiple choice and short answer types. This activity helped me understand how to design surveys and collect responses efficiently. The responses were automatically recorded in Google Sheets, making data analysis simple and organized.
 
 These tools are highly useful academically as they support self-learning, assessment, and collaboration. Coding platforms improve technical skills, while Google Workspace enables easy communication, data collection, and teamwork, which are essential for both academic and professional success.
+# Google Form Link
+https://docs.google.com/forms/d/e/1FAIpQLSfUKLMi7B29_yC-cb7BHCasbven-3-4XyPXLOHzg6n9vvENiw/viewform?usp=publish-editor
