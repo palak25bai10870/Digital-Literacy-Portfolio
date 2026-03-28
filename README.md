@@ -3,8 +3,6 @@
 ## Overview
 This project consists of five tasks designed to develop digital literacy, professional communication, collaboration skills, and cyber awareness. Each task focuses on practical learning that helps students become responsible and effective digital users.
 
----
-
 ##  Project Structure
 
 ###  Task 1 – Digital Literacy Awareness Infographic
@@ -16,8 +14,6 @@ This project consists of five tasks designed to develop digital literacy, profes
 - Final design exported and stored in:  
   **task-1-presentation/**
 
----
-
 ###  Task 2 – Student Digital Portfolio
 - Created/updated profiles on platforms like:
   - GitHub  
@@ -28,8 +24,6 @@ This project consists of five tasks designed to develop digital literacy, profes
 - LinkedIn profile updated with education details  
 - Screenshots saved in:  
   **task-2-portfolio/**
-
----
 
 ###  Task 3 – Coding & Collaboration Platforms
 
@@ -50,7 +44,6 @@ This project consists of five tasks designed to develop digital literacy, profes
 - Files stored in:  
   **task-3-platforms/**
 
----
 
 ###  Task 4 – Professional Email & Etiquette
 - Drafted two professional emails:
@@ -64,7 +57,6 @@ This project consists of five tasks designed to develop digital literacy, profes
 - Files stored in:  
   **task-4-email-etiquette/**
 
----
 
 ###  Task 5 – Cybercrime Awareness
 - Developed a case study on Phishing:
@@ -79,7 +71,6 @@ This project consists of five tasks designed to develop digital literacy, profes
 - Files stored in:  
   **task-5-cybercrime/**
 
----
 
 ##  Objectives
 - Enhance digital literacy and awareness  
@@ -88,7 +79,6 @@ This project consists of five tasks designed to develop digital literacy, profes
 - Understand and prevent cyber threats  
 - Promote responsible use of digital platforms  
 
----
 
 ##  Key Learnings
 - Digital literacy is essential for academic and career growth  
@@ -97,13 +87,11 @@ This project consists of five tasks designed to develop digital literacy, profes
 - Cyber awareness helps prevent financial and data loss  
 - Responsible online behavior is crucial in today’s digital world  
 
----
 
 ##  Cyber Safety Resources
 - National Cyber Crime Portal: https://cybercrime.gov.in  
 - Helpline Number: 1930  
 
----
 
 ##  Conclusion
 This project provided hands-on experience in digital tools, communication, and cybersecurity awareness. It strengthened essential skills required for academic success and future professional growth while promoting responsible digital citizenship.
